@@ -1,0 +1,192 @@
+#headerImg {
+    border-radius: 20px;
+    z-index: 0;
+    width: 52%;
+
+}
+
+#profileImg {
+    width: 16.5%;
+    border-radius: 100px;
+    position: relative;
+    margin-top: -10%;
+    z-index: 0;
+    padding-top: 10%;
+}
+
+.txtPerfil {
+    width: 101%;
+    z-index: 1;
+    margin-top: -20%;
+}
+
+.nameTxt {
+    padding-top: 5% ;
+    font-family: 'Great Vibes', cursive;
+    font-size: 285%;
+    color: white;
+
+
+}
+
+.jobTxt {
+    font-size: 100%;
+}
+
+.Personal {
+    font-size: small;
+    opacity: 0.6;
+    width: 74%;
+    padding-left: 5%;
+
+}
+
+.personalInfo {
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-left: 5%;
+}
+
+
+h4 {
+    text-transform: uppercase;
+    font-size: 100%;
+    color: #000;
+}
+
+h2 {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+p{
+    font-size: small;
+    opacity: 0.6;
+    width: 74%;
+
+}
+
+.resumetext {
+}
+
+.profile {
+}
+
+.jobTxt {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-weight: 700;
+
+}
+
+h2 {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.bar-title {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 22px;
+    color: #566366;
+    margin: 0 0 20px 0;
+}
+
+.bar {
+    background-color: #f2f2f1;
+    width: 100%;
+    height: 15px;
+
+}
+
+ul {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.bar-inner {
+    background-color: #00ABE7;
+    width: 0;
+    height: 100%;
+    position: relative;
+
+}
+
+.bar-inner:after {
+    position: absolute;
+    right: 2.5%;
+    content: attr(data-percent);
+    font-size: 10px;
+    font-weight: 700;
+    color: #fff;
+}
+
+
+
+.bar-20 {
+    width: 20%;
+}
+
+.bar-45 {
+    width: 45%;
+}
+
+.bar-60 {
+    width: 60%;
+}
+
+.bar-40 {
+    width: 40%;
+
+}
+
+.bar-40:hover {
+    background: #348F50; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #00ABE7, #348F50); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #00ABE7, #348F50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.bar-60:hover {
+    background: #348F50; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #00ABE7, #348F50); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #00ABE7, #348F50);
+}
+
+.bar-45:hover {
+    background: #348F50; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #00ABE7, #348F50); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #00ABE7, #348F50);
+}
+
+.bar-20:hover {
+    background: #348F50; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #00ABE7, #348F50); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #00ABE7, #348F50);
+}
+
+.divSkills {
+
+    padding: 4% 4% 4% 4%;
+}
+
+button {
+
+}
+
+.bar-title {
+    margin-top: 4%;
+}
+
+li {
+    margin-left: 2%;
+    text-transform: uppercase;
+
+}
+
+#skill {
+    margin-left: 3%;
+}
